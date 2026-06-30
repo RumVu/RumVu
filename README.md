@@ -39,7 +39,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RumVu&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-lovat-one.vercel.app/?username=RumVu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ### 🐍 Contribution Snake
